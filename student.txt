@@ -1,0 +1,5 @@
+JIM, 54
+PAM, 76
+OSCAR, 87
+ANN, 90
+JUNE, 76
